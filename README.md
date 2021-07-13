@@ -1,6 +1,6 @@
 # Push-button
 
-to manupliate LED we make this project Push button that change LED status
+to manupliate LED we make this project Push button that change LED status and we used direct access to registers to better speed
 
 ## Schema
 
